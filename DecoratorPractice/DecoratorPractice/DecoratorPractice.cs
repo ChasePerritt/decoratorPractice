@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Name: Chase Perritt
+ * Date: 12 February 2020
+ * File: DecoratorPractice.cs
+ * Description: This file contains practice for the Decorator pattern (with its structure described in the decorator.dia file attached)
+ */
 namespace DecoratorPractice
 {
     public interface Widget
